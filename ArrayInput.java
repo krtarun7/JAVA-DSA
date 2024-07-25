@@ -16,8 +16,8 @@ public class ArrayInput {
         }
 
         // Print the array
-        for (int i = 0; i < size; i++) {
-            System.out.print(array[i] + " ");
+        for (int num : array) {
+            System.out.print(num + " ");
         }
     }
 }

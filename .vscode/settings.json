@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "onFocusChange",
+    "java.debug.settings.onBuildFailureProceed": true
+}
