@@ -99,4 +99,8 @@ public class BinarySearchTree {
         
         sc.close();
     }
+
+    public Object search(BinarySearchTree.Node root2, int key) {
+        throw new UnsupportedOperationException("Unimplemented method 'search'");
+    }
 }
