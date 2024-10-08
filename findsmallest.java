@@ -1,3 +1,4 @@
+//Find smallest number using method among three numbers
 public class findsmallest {
     static void Smallestfind(int a, int b , int c){
         if(a < b && a < c){
@@ -16,4 +17,5 @@ public class findsmallest {
         Smallestfind(25,37,29);
 }
 }
+
 
